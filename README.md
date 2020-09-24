@@ -1,6 +1,6 @@
 # Sustainable-Fashion
 
-This project is my MSc thesis. I utilized discrete choice modelling to estimate consumers' willingness to pay for more sustainable fashion choices. The R syntax (using Apollo library in Rstudio) is included in this repository.
+This project is my MSc thesis (March - August 2020). I utilized discrete choice modelling to estimate consumers' willingness to pay for more sustainable fashion choices. The R syntax (using Apollo library in Rstudio) is included in this repository.
 
 The full report can be found here:
 https://repository.tudelft.nl/islandora/object/uuid:5ea48fce-fa1e-457d-8277-ad19784033bc?collection=education
