@@ -64,7 +64,6 @@ apollo_probabilities=function(apollo_beta, apollo_inputs, functionality="estimat
   ### Compute probabilities using MNL model
   P[['model']] = apollo_mnl(mnl_settings, functionality)
   
-
   
   ### Prepare and return outputs of function
   P = apollo_prepareProb(P, apollo_inputs, functionality)
@@ -81,6 +80,3 @@ apollo_modelOutput(model,modelOutput_settings=list(printPVal=TRUE))
 
 apollo_saveOutput(model)
 
-df = read.csv("MNL model_estimates.csv",header=TRUE,sep=",")
-library(writexl)
-write_xlsx(df,"MNL model_estimates.xlsx")
