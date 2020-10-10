@@ -1,4 +1,4 @@
-# Sustainable-Fashion
+# Sustainable-Fashion: A statistical analysis of consumers' behaviors by choice modelling
 
 This project is my MSc thesis (March - August 2020). I utilized discrete choice modelling to estimate consumers' willingness to pay for more sustainable fashion choices. The R syntax (using Apollo library in Rstudio) is included in this repository.
 
