@@ -85,6 +85,7 @@ apollo_modelOutput(model,modelOutput_settings=list(printPVal=TRUE))
 
 apollo_saveOutput(model)
 
+# Save results to an Excel file:
 df = read.csv("MNL Combined4_estimates.csv",header=TRUE,sep=",")
 library(writexl)
 write_xlsx(df,"MNL Combined4_estimates.xlsx")
