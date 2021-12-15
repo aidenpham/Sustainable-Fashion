@@ -9,9 +9,9 @@ https://repository.tudelft.nl/islandora/object/uuid:5ea48fce-fa1e-457d-8277-ad19
 Abstract:
 
 
-"My project studies how consumers trade off price against hypothetically constructed ratings of environmental and labor rights practices:
+"My project studies how consumers trade off price against hypothetically constructed ratings of environmental and labor rights practices. The following variables are chosen for analysis:
 - 7 main variables representing information on clothes labels (price, country of origin, fiber content, washing instruction, drying instruction, environment rating, labor rights rating)
-- 12 background variables (including 6 sociodemographic, 3 spending habit and 3 attitudinal variables) were chosen for this project. 
+- 12 background variables (including 6 sociodemographic, 3 spending habit and 3 attitudinal variables) 
 
 
 A stated choice experiment was constructed to collect data from 123 people, and discrete choice modelling was employed to analyze the data. 
