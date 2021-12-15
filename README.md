@@ -23,5 +23,5 @@ The results showed that 5 out of 7 main variables (price, fiber content, washing
 In the final model, 4 background variables including gender, country of residence, concern about sweatshops and skepticism of eco-labels were shown to moderate the effects of main variables. Women and residents in high-income countries are more sensitive to price. People who are more concerned about sweatshops attach a higher importance to labor rights rating, whereas people who are more skeptical of eco-labels care less about the it. A typical individual in our sample is willing to pay €12 to €36 more for 1-point improvement of either environment rating or labor rights rating. 
 
 
-Consequently, sustainable fashion brands can deploy either of the following two strategies to enhance their sales: (1) charge this price premium without losing their market share or (2) keep the same price to gain more customers."
+Consequently, sustainable fashion brands can deploy either of the following two strategies to enhance their sales: (1) charge a price premium without losing their market share or (2) keep the same price to gain more customers."
 
