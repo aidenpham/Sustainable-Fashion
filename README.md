@@ -9,7 +9,10 @@ https://repository.tudelft.nl/islandora/object/uuid:5ea48fce-fa1e-457d-8277-ad19
 Abstract:
 
 
-"My project studies how consumers trade off price against hypothetically constructed ratings of environmental and labor rights practices. 7 main variables representing information on clothes labels (price, country of origin, fiber content, washing instruction, drying instruction, environment rating, labor rights rating) and 12 background variables (including 6 sociodemographic, 3 spending habit and 3 attitudinal variables) were chosen for this project. A stated choice experiment was constructed to collect data from 123 people, and discrete choice modelling was employed to analyze the data. 
+"My project studies how consumers trade off price against hypothetically constructed ratings of environmental and labor rights practices:
+- 7 main variables representing information on clothes labels (price, country of origin, fiber content, washing instruction, drying instruction, environment rating, labor rights rating)
+- 12 background variables (including 6 sociodemographic, 3 spending habit and 3 attitudinal variables) were chosen for this project. 
+A stated choice experiment was constructed to collect data from 123 people, and discrete choice modelling was employed to analyze the data. 
 
 
 The results showed that 5 out of 7 main variables (price, fiber content, washing instruction, environment rating and labor rights rating) play a significant role in respondents’ choice. Consumers prefer lower price, pure cotton (vs mixed blend) and the option to use washing machine (vs washing by hand). Regarding the environment and labor rights attributes, higher ratings are preferred, and the preference for higher ratings follows the law of diminishing marginal utility. 
