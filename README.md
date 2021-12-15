@@ -12,6 +12,8 @@ Abstract:
 "My project studies how consumers trade off price against hypothetically constructed ratings of environmental and labor rights practices:
 - 7 main variables representing information on clothes labels (price, country of origin, fiber content, washing instruction, drying instruction, environment rating, labor rights rating)
 - 12 background variables (including 6 sociodemographic, 3 spending habit and 3 attitudinal variables) were chosen for this project. 
+
+
 A stated choice experiment was constructed to collect data from 123 people, and discrete choice modelling was employed to analyze the data. 
 
 
